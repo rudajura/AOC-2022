@@ -1,4 +1,4 @@
-f = open("day10.txt", "r")
+f = open("day10.in", "r")
 
 i = 1
 carrySum = 1

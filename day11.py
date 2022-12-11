@@ -1,10 +1,10 @@
 import math as math
 
-f = open("day11.txt", "r")
+f = open("day11.in", "r")
 for totalMonkeysCount, line in enumerate(f):
     pass
 
-f = open("day11.txt", "r")
+f = open("day11.in", "r")
 
 totalMonkeysCount = round(totalMonkeysCount / 7)
 monkeyCount = -1

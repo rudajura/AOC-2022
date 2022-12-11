@@ -1,4 +1,4 @@
-f = open("day1.txt", "r")
+f = open("day1.in", "r")
 
 sum = 0
 sumList = []
