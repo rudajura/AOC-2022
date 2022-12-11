@@ -43,4 +43,3 @@ for line in f:
 
 print(totalSum)
 print(resultPos)
-
